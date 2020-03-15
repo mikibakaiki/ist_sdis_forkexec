@@ -28,7 +28,7 @@ To see results, go to `<client-choosen>/target/site/jacoco/index.html`
 
 ### To Run
 
-####1. Setup:
+#### 1. Setup:
 
 * Install all dependencies with the command `mvn clean install -DskipTests`
 
@@ -39,7 +39,7 @@ To see results, go to `<client-choosen>/target/site/jacoco/index.html`
    * `cd-rst-ws; mvn compile exec:java -Dws.i=2`
    
 
-####1. Run Individually:
+#### 1. Run Individually:
 
 * Go to each /xxx-ws-cli and execute `mvn verify`
 
