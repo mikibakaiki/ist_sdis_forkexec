@@ -39,11 +39,11 @@ To see results, go to `<client-choosen>/target/site/jacoco/index.html`
    * `cd-rst-ws; mvn compile exec:java -Dws.i=2`
    
 
-#### 1. Run Individually:
+#### 1.1.a. Run Individually:
 
 * Go to each /xxx-ws-cli and execute `mvn verify`
 
-#### 2. All modules at the same time
+#### 1.1.b. All modules at the same time
 
 * Go to the source folder of the project and run `mvn verify`
 
