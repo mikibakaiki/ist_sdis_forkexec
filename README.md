@@ -4,6 +4,8 @@
 
 Distributed Systems 2018-2019, 2nd semester project
 
+**GRADE:** 17,50
+
 ## Authors
 
 #### Group T26
